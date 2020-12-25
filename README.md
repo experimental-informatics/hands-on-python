@@ -14,10 +14,10 @@ here you will find some notebooks to get into python-programming in Jupyter Note
 
 **Seminar Wiki Pages:**
 
-* [Codichte - Experimente mit kognitiven Systemen - WS20-21](https://exmediawiki.khm.de/exmediawiki/index.php/Codichte_-_Experimente_mit_kognitiven_Systemen)
+* [Codichte - experiments with cognitive systems - WS20-21](https://exmediawiki.khm.de/exmediawiki/index.php/Codichte_-_Experimente_mit_kognitiven_Systemen)
 * [Introduction to programming text generators - WS20-21](https://exmediawiki.khm.de/exmediawiki/index.php/Einf%C3%BChrung_in_die_Programmierung_von_Textgeneratoren)
-* [Introdution to programming Artificial Intelligences - WS19-20](https://exmediawiki.khm.de/exmediawiki/index.php/AI@exLabIII)
-* [Introdution to programming Artificial Intelligences - WS18-19](https://exmediawiki.khm.de/exmediawiki/index.php/Einf%C3%BChrung_in_die_Programmierung_k%C3%BCnstlicher_Intelligenzen)
+* [Introdution to programming artificial intelligences - WS19-20](https://exmediawiki.khm.de/exmediawiki/index.php/AI@exLabIII)
+* [Introdution to programming artificial intelligences - WS18-19](https://exmediawiki.khm.de/exmediawiki/index.php/Einf%C3%BChrung_in_die_Programmierung_k%C3%BCnstlicher_Intelligenzen)
 
 **Executing the Notebooks on binder:**
 
