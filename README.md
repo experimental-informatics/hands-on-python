@@ -4,7 +4,7 @@
 
 Georg Trogemann, Mattis Kuhn, Martin Nawrath, Christian Heck
 
-Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de, nawrath@khm.de
+Email: g.trogemann@khm.de, m.kuhn@khm.de, nawrath@khm.de, c.heck@khm.de
 
 ## Description
 
