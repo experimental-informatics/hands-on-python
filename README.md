@@ -51,7 +51,7 @@ here you will find some notebooks to get into python-programming in Jupyter Note
 * Jupyter-Notebook: [Markdown-basics.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/Markdown-basics.ipynb)
 
 ---
-| CHEAT SHEETS                |                                                              |
+| CHEAT                 | SHEETS                                                             |
 | --------------------------- | ------------------------------------------------------------ |
 | Python Beginner Cheat Sheet | https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf |
 | Markdown Syntax             | https://help.github.com/articles/basic-writing-and-formatting-syntax/ |
