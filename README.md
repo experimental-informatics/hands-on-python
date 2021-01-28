@@ -38,9 +38,11 @@ here you will find some notebooks to get into python-programming in Jupyter Note
 
 ### Hands on **Python**
 
-* [Sequencing_Python-Intro](https://github.com/experimental-informatics/hands-on-python/blob/master/Sequencing_Python-Intro.ipynb) < Python Introduction into Sequencing
+* [Sequencing_Python-Intro.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/Sequencing_Python-Intro.ipynb) < Python Introduction into Sequencing
 
 * [for-loops_4_texts.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/for-loops_4_texts.ipynb) < Introduction to `for` Loops
+
+* [dictionary_list.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/dictionary_list.ipynb) < Overview: Lists and Dictionaries
 
 * [if-else-elif.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/if-elif-else.ipynb) < Introduction to `if`, `elif` and `else`
 
