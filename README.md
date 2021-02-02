@@ -46,8 +46,6 @@ here you will find some notebooks to get into python-programming in Jupyter Note
 
 * [if-else-elif.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/if-elif-else.ipynb) < Introduction to `if`, `elif` and `else`
 
-* [dictionary_list.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/dictionary_list.ipynb) < working with dictionairies & lists
-
 * [functions.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/functions.ipynb) < brief introduction to writing custom functions
 
 ### Hands on **Markdown**
