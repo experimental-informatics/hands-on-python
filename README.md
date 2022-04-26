@@ -4,8 +4,6 @@
 
 Georg Trogemann, Mattis Kuhn, Martin Nawrath, Christian Heck
 
-Email: g.trogemann@khm.de, m.kuhn@khm.de, nawrath@khm.de, c.heck@khm.de
-
 ## Description
 
 here you will find some notebooks to get into python-programming in Jupyter Notebooks and in how to install your Coding-Environments to work with us together in our seminars in [experimental informatics](https://www.khm.de/exMedia_experimentelle_informatik/).
